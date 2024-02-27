@@ -1,0 +1,15 @@
+{
+  "name": "pincodeweb",
+  "version": "1.0.0",
+  "description": "PinCodeWeb is a sample application demonstrating use of the CredentialsValidation security check.",
+  "dependencies": {
+    "express": "latest",
+    "ibm-mfp-web-sdk": "file:../../../../Downloads/worklight-web-native-8.0.2022091607",
+    "react-native-get-random-values": "^1.9.0",
+    "request": "latest",
+    "requirejs": "latest",
+    "uuid": "^9.0.1"
+  },
+  "author": "PSL Mobile Foundation",
+  "license": "SEE LICENSE IN README.MD"
+}
